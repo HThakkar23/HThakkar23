@@ -12,8 +12,8 @@
 I'm a builder at heart — I create scalable solutions for real-world problems. From helping underserved students learn better to automating admin work for doctors, I’m driven by impact, not just code.
 
 -  I’m currently working on:  
-  -  AI SaaS for automating SOAP notes, billing, and summaries for solo practitioners  
-  -  Study Planner with Pomodoro Timer, Task Manager, and Productivity Insights  
+    -  AI SaaS for automating SOAP notes, billing, and summaries for solo practitioners  
+    -  Study Planner with Pomodoro Timer, Task Manager, and Productivity Insights  
 
 -  I’m learning:  
     - Edge AI & RISC-V chip design  
@@ -56,9 +56,9 @@ Tools & Platforms
 
 GitHub Stats
 
-![Harit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harit-thakkar&show_icons=true&theme=radical)
+![Harit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HThakkar23&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harit-thakkar&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HThakkar23&layout=compact&theme=radical)
 
 ---
  Connect With Me
