@@ -16,15 +16,15 @@ I'm a builder at heart — I create scalable solutions for real-world problems. 
   -  Study Planner with Pomodoro Timer, Task Manager, and Productivity Insights  
 
 -  I’m learning:  
-  - Edge AI & RISC-V chip design  
-  - Backend scalability patterns  
-  - OpenAI APIs (GPT-4o, Whisper)
+    - Edge AI & RISC-V chip design  
+    - Backend scalability patterns  
+    - OpenAI APIs (GPT-4o, Whisper)
 
 -  Ask me about:  
-  - Full-stack web development (React, Node.js, MongoDB, Express)  
-  - API design & integration  
-  - Hardware projects with Arduino  
-  - Building for real users with a product mindset
+    - Full-stack web development (React, Node.js, MongoDB, Express)  
+    - API design & integration  
+    - Hardware projects with Arduino  
+    - Building for real users with a product mindset
 
 ---
 
@@ -43,6 +43,7 @@ Languages & Frameworks
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
 
 Tools & Platforms 
+
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
