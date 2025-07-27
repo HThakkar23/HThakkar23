@@ -41,7 +41,7 @@ I'm a self-driven developer who loves turning complex problems into simple, scal
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harit-thakkar&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HThakkar23&layout=compact&theme=radical)
 
 ---
 
