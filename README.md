@@ -1,54 +1,69 @@
-# 👋 Hi, I'm Harit Thakkar
+ Hi, I'm Harit Thakkar
 
 🎓 Incoming Computer Engineering Student @ University of Waterloo  
-💻 Full-Stack Web Developer | MERN | API Integrator  
-🌐 Passionate about solving real-world problems with technology  
-🚀 Currently building an AI-powered SaaS for healthcare & productivity apps  
+💻 Full-Stack Web Developer | MERN | API Integrator | AI Enthusiast  
+🌐 Passionate about solving real-world problems through technology  
+🚀 Currently building an AI-powered SaaS for healthcare & futuristic productivity tools  
 
 ---
 
-## 🧠 About Me
+ About Me
 
-I'm a self-driven developer who loves turning complex problems into simple, scalable solutions. Whether it's helping underserved students learn better or automating admin work for doctors, I build with impact in mind.
+I'm a builder at heart — I create scalable solutions for real-world problems. From helping underserved students learn better to automating admin work for doctors, I’m driven by impact, not just code.
 
-- 🔭 I’m currently working on:  
-  - 🧠 **AI SaaS** for automating SOAP notes, billing, and summaries for solo practitioners  
-  - 📚 **Study Planner** with Pomodoro Timer, Task Manager, and Productivity Analytics
+-  I’m currently working on:  
+  -  AI SaaS for automating SOAP notes, billing, and summaries for solo practitioners  
+  -  Study Planner with Pomodoro Timer, Task Manager, and Productivity Insights  
 
-- 🌱 I’m learning:  
-  - Advanced backend architecture  
-  - RISC-V & chip design for edge AI  
-  - AI APIs (OpenAI GPT-4o, Whisper)
+-  I’m learning:  
+  - Edge AI & RISC-V chip design  
+  - Backend scalability patterns  
+  - OpenAI APIs (GPT-4o, Whisper)
 
-- 💬 Ask me about:  
-  - Full-stack web dev (React, Node.js, MongoDB, Express, Tailwind)  
-  - Using AI to solve real-world problems  
-  - Building efficient systems from scratch
+-  Ask me about:  
+  - Full-stack web development (React, Node.js, MongoDB, Express)  
+  - API design & integration  
+  - Hardware projects with Arduino  
+  - Building for real users with a product mindset
 
 ---
 
-## 🛠️ Tech Stack
+Tech Stack
 
+Languages & Frameworks  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2b%2b)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
+
+Tools & Platforms 
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![VS Code](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code)
+![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
+![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=arduino)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
+![API](https://img.shields.io/badge/-API-black?style=flat-square&logo=swagger)
 
 ---
 
-## 📊 GitHub Stats
+GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HThakkar23&layout=compact&theme=radical)
+![Harit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harit-thakkar&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harit-thakkar&layout=compact&theme=radical)
 
 ---
+ Connect With Me
 
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&link=https://linkedin.com/in/harit-thakkar)](https://linkedin.com/in/harit-thakkar)
-[![Gmail](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&link=mailto:your-email@gmail.com)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&link=https://linkedin.com/in/harit-thakkar)](www.linkedin.com/in/harit-thakkar-43a4b9279)  
+[![Gmail](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&link=mailto:your-email@gmail.com)](mailto:thakkarharit02@gmail.com)
 
 ---
 
