@@ -49,7 +49,7 @@ Tools & Platforms
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
 ![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=arduino)
-![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
+![AWS](https://img.shields.io/badge/-AWSLambda-black?style=flat-square&logo=amazon-aws)
 ![API](https://img.shields.io/badge/-API-black?style=flat-square&logo=swagger)
 
 ---
