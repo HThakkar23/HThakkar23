@@ -41,6 +41,11 @@ Languages & Frameworks
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
+![Helmet.js](https://img.shields.io/badge/-Helmet.js-black?style=flat-square&logo=helmet)
+![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy)
+![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=jupyter)
+![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=flat-square&logo=plotly)
 
 Tools & Platforms 
 
