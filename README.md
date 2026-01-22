@@ -75,9 +75,14 @@ I'm a builder at heart — I create scalable solutions for real-world problems. 
 
 ## GitHub Stats
 
-![Harit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HThakkar23&show_icons=true&theme=radical&hide=commits)
+<p>
+  <img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=HThakkar23&show_icons=true&locale=en&layout=compact"
+    alt="HThakkar23"
+  />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HThakkar23&layout=compact&theme=radical)
 
 ---
 
