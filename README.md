@@ -1,9 +1,9 @@
  Hi, I'm Harit Thakkar
 
-🎓 Incoming Computer Engineering Student @ University of Waterloo  
+🎓 Computer Engineering Student @ University of Waterloo  
 💻 Full-Stack Web Developer | MERN | API Integrator | AI Enthusiast  
 🌐 Passionate about solving real-world problems through technology  
-🚀 Currently building an AI-powered SaaS for healthcare & futuristic productivity tools  
+
 
 ---
 
@@ -12,19 +12,12 @@
 I'm a builder at heart — I create scalable solutions for real-world problems. From helping underserved students learn better to automating admin work for doctors, I’m driven by impact, not just code.
 
 -  I’m currently working on:  
-    -  AI SaaS for automating SOAP notes, billing, and summaries for solo practitioners  
     -  Study Planner with Pomodoro Timer, Task Manager, and Productivity Insights  
 
 -  I’m learning:  
     - Edge AI & RISC-V chip design  
     - Backend scalability patterns  
     - OpenAI APIs (GPT-4o, Whisper)
-
--  Ask me about:  
-    - Full-stack web development (React, Node.js, MongoDB, Express)  
-    - API design & integration  
-    - Hardware projects with Arduino  
-    - Building for real users with a product mindset
 
 ---
 
@@ -61,7 +54,7 @@ Tools & Platforms
 
 GitHub Stats
 
-![Harit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HThakkar23&show_icons=true&theme=radical&count_private=true&cache_seconds=1800)
+![Harit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HThakkar23&show_icons=true&theme=radical&count_private=true&hide=commits)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HThakkar23&layout=compact&theme=radical&cache_seconds=1800)
 
