@@ -56,6 +56,9 @@ GitHub Stats
 
 ![Harit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HThakkar23&show_icons=true&theme=radical&count_private=true&hide=commits)
 
+![Harit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HThakkar23&show_icons=true&theme=radical&hide=commits&hide_rank=true)
+
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HThakkar23&layout=compact&theme=radical&cache_seconds=1800)
 
 
