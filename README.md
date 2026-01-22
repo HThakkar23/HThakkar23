@@ -61,9 +61,10 @@ Tools & Platforms
 
 GitHub Stats
 
-![Harit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HThakkar23&show_icons=true&theme=radical)
+![Harit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HThakkar23&show_icons=true&theme=radical&count_private=true&cache_seconds=1800)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HThakkar23&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HThakkar23&layout=compact&theme=radical&cache_seconds=1800)
+
 
 ---
  Connect With Me
