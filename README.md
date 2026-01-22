@@ -68,7 +68,8 @@ I'm a builder at heart — I create scalable solutions for real-world problems. 
 
 ## GitHub Stats
 
-![Metrics](https://metrics.lecoq.io/HThakkar23)
+![Metrics](https://metrics.lecoq.io/HThakkar23?template=classic&languages=1&languages.limit=5&languages.threshold=0%&languages.colors=github&languages.details=percentage)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HThakkar23&layout=compact&theme=radical&cache_seconds=1800)
 
