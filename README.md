@@ -20,6 +20,7 @@ I'm a builder at heart — I create scalable solutions for real-world problems. 
     - OpenAI APIs (GPT-4o, Whisper)
 
 ---
+## Tech Stack
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript)
@@ -33,27 +34,33 @@ I'm a builder at heart — I create scalable solutions for real-world problems. 
 ### Frameworks & Libraries
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express)
+![NestJS](https://img.shields.io/badge/NestJS-000000?style=flat-square&logo=nestjs)
 ![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=flat-square&logo=tailwind-css)
 
 ---
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql)
 
 ---
 
-### Data & Scientific Computing
+### Data & Machine Learning
 ![NumPy](https://img.shields.io/badge/NumPy-000000?style=flat-square&logo=numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-000000?style=flat-square&logo=pandas)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=flat-square&logo=matplotlib)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-000000?style=flat-square&logo=scikit-learn)
 ![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=flat-square&logo=jupyter)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-000000?style=flat-square&logo=huggingface)
 
 ---
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github)
+![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker)
 ![Postman](https://img.shields.io/badge/Postman-000000?style=flat-square&logo=postman)
 ![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma)
 ![Arduino](https://img.shields.io/badge/Arduino-000000?style=flat-square&logo=arduino)
@@ -68,10 +75,9 @@ I'm a builder at heart — I create scalable solutions for real-world problems. 
 
 ## GitHub Stats
 
-![Metrics](https://metrics.lecoq.io/HThakkar23?template=classic&languages=1&languages.limit=5&languages.threshold=0%&languages.colors=github&languages.details=percentage)
+![Harit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HThakkar23&show_icons=true&theme=radical&hide=commits)
 
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HThakkar23&layout=compact&theme=radical&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HThakkar23&layout=compact&theme=radical)
 
 ---
 
@@ -79,4 +85,3 @@ I'm a builder at heart — I create scalable solutions for real-world problems. 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/harit-thakkar-43a4b9279)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail)](mailto:thakkarharit02@gmail.com)
-
